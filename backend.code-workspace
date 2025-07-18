@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../news digest app/backend"
+		},
+		{
+			"path": "../../news digest app/frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}
